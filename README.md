@@ -1,0 +1,1 @@
+A solver that attempts to approximate soloutions to the time dependent schrodinger function. "ploting dots" at small descrete steps and estimating points using rank–Nicolson evolution to avoid problems with normalization.
